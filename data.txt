@@ -1,0 +1,4 @@
+City:Pune
+Date:22 Jun 2021 | 07:47:46 AM
+
+Temperature:23.54, Weather:Clouds, Pressure:1010, Humidity:84, Maximum Temperature:23.54, Minimum Temperature:23.54
